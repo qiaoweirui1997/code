@@ -1,0 +1,12 @@
+﻿  putText.cpp
+C:\Users\77945\source\repos\DynamicVideo\DynamicVideo\putText.cpp(6,40): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\77945\source\repos\DynamicVideo\DynamicVideo\putText.cpp(107,40): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\77945\source\repos\DynamicVideo\DynamicVideo\putText.cpp(112,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\77945\source\repos\DynamicVideo\DynamicVideo\putText.cpp(123,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 231 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  DynamicVideo.vcxproj -> C:\Users\77945\source\repos\DynamicVideo\x64\Release\DynamicVideo.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

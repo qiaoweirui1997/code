@@ -1,0 +1,80 @@
+﻿  dynamicVideo.cpp
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(107,59): warning C4244: “参数”: 从“_Tp”转换到“int”，可能丢失数据
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(107,59): warning C4244:         with
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(107,59): warning C4244:         [
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(107,59): warning C4244:             _Tp=float
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(107,59): warning C4244:         ]
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(107,40): warning C4244: “参数”: 从“_Tp”转换到“int”，可能丢失数据
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(107,40): warning C4244:         with
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(107,40): warning C4244:         [
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(107,40): warning C4244:             _Tp=float
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(107,40): warning C4244:         ]
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(110,59): warning C4244: “参数”: 从“_Tp”转换到“int”，可能丢失数据
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(110,59): warning C4244:         with
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(110,59): warning C4244:         [
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(110,59): warning C4244:             _Tp=float
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(110,59): warning C4244:         ]
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(110,40): warning C4244: “参数”: 从“_Tp”转换到“int”，可能丢失数据
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(110,40): warning C4244:         with
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(110,40): warning C4244:         [
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(110,40): warning C4244:             _Tp=float
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(110,40): warning C4244:         ]
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(113,59): warning C4244: “参数”: 从“_Tp”转换到“int”，可能丢失数据
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(113,59): warning C4244:         with
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(113,59): warning C4244:         [
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(113,59): warning C4244:             _Tp=float
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(113,59): warning C4244:         ]
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(113,40): warning C4244: “参数”: 从“_Tp”转换到“int”，可能丢失数据
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(113,40): warning C4244:         with
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(113,40): warning C4244:         [
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(113,40): warning C4244:             _Tp=float
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(113,40): warning C4244:         ]
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(116,59): warning C4244: “参数”: 从“_Tp”转换到“int”，可能丢失数据
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(116,59): warning C4244:         with
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(116,59): warning C4244:         [
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(116,59): warning C4244:             _Tp=float
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(116,59): warning C4244:         ]
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(116,40): warning C4244: “参数”: 从“_Tp”转换到“int”，可能丢失数据
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(116,40): warning C4244:         with
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(116,40): warning C4244:         [
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(116,40): warning C4244:             _Tp=float
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(116,40): warning C4244:         ]
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(321,52): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(321,52): warning C4244:         with
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(321,52): warning C4244:         [
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(321,52): warning C4244:             _Tp=int
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(321,52): warning C4244:         ]
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(321,37): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(321,37): warning C4244:         with
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(321,37): warning C4244:         [
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(321,37): warning C4244:             _Tp=int
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(321,37): warning C4244:         ]
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(322,70): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(322,70): warning C4244:         with
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(322,70): warning C4244:         [
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(322,70): warning C4244:             _Tp=float
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(322,70): warning C4244:         ]
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(322,53): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(322,53): warning C4244:         with
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(322,53): warning C4244:         [
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(322,53): warning C4244:             _Tp=float
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(322,53): warning C4244:         ]
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(336,55): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(336,55): warning C4244:         with
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(336,55): warning C4244:         [
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(336,55): warning C4244:             _Tp=float
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(336,55): warning C4244:         ]
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(336,55): warning C4244:         and
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(336,55): warning C4244:         [
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(336,55): warning C4244:             _Tp=int
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(336,55): warning C4244:         ]
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(336,32): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(336,32): warning C4244:         with
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(336,32): warning C4244:         [
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(336,32): warning C4244:             _Tp=float
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(336,32): warning C4244:         ]
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(336,32): warning C4244:         and
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(336,32): warning C4244:         [
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(336,32): warning C4244:             _Tp=int
+C:\Users\Honor\Desktop\DynamicVideo\DynamicVideo\dynamicVideo.cpp(336,32): warning C4244:         ]
+  DynamicVideo.vcxproj -> C:\Users\Honor\Desktop\DynamicVideo\x64\Debug\DynamicVideo.exe
